@@ -1,1 +1,1 @@
-This is an introduction to Git readme.
+This is an introduction to Git Readme.
