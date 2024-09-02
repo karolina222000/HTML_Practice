@@ -1,0 +1,37 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+    background:grey;
+}
+
+.quote {
+    color:black;
+    background-color: whitesmoke;
+    font-weight: 100px;
+    font-family:Courier;
+    display: inline-block;
+    padding: -200px;
+    border: 10px;
+    margin: 10px;
+}
+
+.flex-container {
+    display:flex;
+}
+
+.box {
+    display:flexbox;
+    background-color: rgb(98, 132, 121);
+    padding:10px;
+    margin:30px;
+    width: 100 px;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(184, 132, 222)
+}
+
+a:hover {
+    color:white
+}
